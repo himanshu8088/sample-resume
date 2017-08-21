@@ -1,0 +1,60 @@
+header{
+    padding: 50px;    
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    border-bottom: 1px solid black;    
+}
+
+
+#contact{    
+    border-left: 6px solid black;
+    padding: 25px;    
+    margin-top: 25px;
+    background-color: lightgrey;     
+    color: black;
+    font-size: 18px;
+    font-family: monospace;
+}
+
+#detail{
+     border-left: 6px solid rgb(76,175,80);
+     background-color:ghostwhite;
+     margin-top: 25px;
+     padding: 25px;
+}
+#name{
+    font-size: 20px;
+    font-weight: bold;    
+}
+
+h1{
+    display: block;    
+    background-color: lightgrey;    
+    font-size: 18px;
+    color: black;   
+    font-family: monospace;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+}
+
+table{    
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead{
+    background-color: darkgrey;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.body-footer{
+    margin-left:800px;
+    display: block;
+    padding: 25px;
+}
